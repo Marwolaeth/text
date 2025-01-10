@@ -7,6 +7,7 @@ import huggingface_hub
 import transformers
 from transformers import AutoConfig, AutoModel, AutoTokenizer
 from transformers import pipeline
+from transformers import AutoModelForCausalLM
 try:
     from transformers.utils import logging
 except ImportError:

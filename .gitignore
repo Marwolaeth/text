@@ -4,6 +4,7 @@
 .Ruserdata
 docs
 .DS_Store
+.Rhistory
 # Compiled source #
 ###################
 *.a
